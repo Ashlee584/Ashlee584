@@ -6,7 +6,7 @@
  para ajudar com meus trabalhos.
 
 
-
+<div align="center" style="display: inline_block">
 <code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
 <code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
 <code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
@@ -16,7 +16,7 @@
 <code><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="illustrator logo" />
 <code><img src="https://skillicons.dev/icons?i=ae" height="50" alt="html logo" />
 <code><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="css logo" />
- 
+</div> 
 ---
 
 ## ⭐ GitHub Stats
